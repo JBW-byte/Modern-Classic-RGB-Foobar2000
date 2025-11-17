@@ -1,7 +1,7 @@
 # Modern-Classic-RGB-Foobar2000
 Simple cool layout using the default user interface and plugins for the 32bit version of foobar2000 2.0 portablemode.
 
-
+  ![Screenshot April 2025]([https://raw.githubusercontent.com/JBW-byte/Screenshots/refs/heads/main/sfiii_sep.png](https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fmodern-classic-rgb-skin-for-foobar2000-32bit-simple-layout-v0-4vgjkkr1okda1.png%3Fwidth%3D2560%26format%3Dpng%26auto%3Dwebp%26s%3D975d309a18a157adbad1216c1d3e38565cd7dbdc))  
 
 To install the theme goto Prefrences, Default User Interface and click import theme, select the .fth file, you will need to use dark mode in foobar(display menu/colors and font) or on your desktop to match the borders.
 

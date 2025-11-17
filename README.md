@@ -28,6 +28,6 @@ Scripts i use:-
 
 https://hydrogenaud.io/index.php/topic,110938.0.html Libray Tree spider monkey panel
 
-you will need to install these font to see some icons https://github.com/TheQwertiest/CaTRoX_QWR/blob/master/fonts/fontawesome.ttf
+you will need to install these font's to see some icons https://github.com/TheQwertiest/CaTRoX_QWR/blob/master/fonts/fontawesome.ttf
 
 https://github.com/TheQwertiest/CaTRoX_QWR/blob/master/fonts/Guifx%20v2%20Transports.ttf

@@ -8,8 +8,6 @@ To install the theme goto Prefrences, Default User Interface and click import th
 https://github.com/JBW-byte/Modern-Classic-RGB-Foobar2000/blob/main/Modern_Classic_RGB.fth
 
 
-
-
 you will need these plugin components to self install.
 
 https://github.com/TheQwertiest/foo_spider_monkey_panel/releases/tag/v1.6.1 Spider Monkey panel
@@ -23,7 +21,6 @@ https://github.com/jscript-panel/release/releases Jscript panel3
 https://drive.google.com/file/d/0B-52fIoCowfjQ1EyWkpJblRUNGM/view?resourcekey=0-k0RBknhT569PMlJFzJ8pVw VU Meter
 
 VU skin, extract zip to foobar2000/components https://drive.google.com/file/d/1unlq7VnlLkxgKFc5LaIls-1bbw6_CY55/view?usp=share_link
-
 
 
 Scripts i use:-

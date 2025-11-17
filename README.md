@@ -5,7 +5,7 @@ Simple cool layout using the default user interface and plugins for the 32bit ve
 
 To install the theme goto Prefrences, Default User Interface and click import theme, select the .fth file, you will need to use dark mode in foobar(display menu/colors and font) or on your desktop to match the borders.
 
-https://drive.google.com/file/d/1JxLTOUl8OWgvm4BsYyC-9Ph-G4_Bw9vo/view?usp=sharing
+https://github.com/JBW-byte/Modern-Classic-RGB-Foobar2000/blob/main/Modern_Classic_RGB.fth
 
 
 

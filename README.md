@@ -1,4 +1,4 @@
-# Modern Classic RGB Skn Theme for Foobar2000 32Bit 2.0
+# Modern Classic RGB Skin Theme for Foobar2000 32Bit 2.0
 Simple cool layout using the default user interface and plugins for the 32bit version of foobar2000 2.0 portable mode.
 
   ![Screenshot April 2025](https://raw.githubusercontent.com/JBW-byte/Modern-Classic-RGB-Foobar2000/refs/heads/main/Modern_Classic_RGB.png)  

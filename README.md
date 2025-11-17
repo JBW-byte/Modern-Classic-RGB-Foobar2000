@@ -13,6 +13,8 @@ https://github.com/JBW-byte/Modern-Classic-RGB-Foobar2000/blob/main/Modern_Class
   
 you will need these plugin components to self install.
 
+https://www.foobar2000.org/windows Foobar 32bit
+
 https://github.com/TheQwertiest/foo_spider_monkey_panel/releases/tag/v1.6.1 Spider Monkey panel
 
 https://www.foobar2000.org/components/view/foo_wave_minibar_mod WaveSeekbar
